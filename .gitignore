@@ -1,0 +1,7 @@
+.idea/
+.env
+docker/mysql/data/
+.directory
+helpers/notice.txt
+logs/*.txt
+*.log
