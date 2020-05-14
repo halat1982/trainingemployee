@@ -5,3 +5,4 @@ docker/mysql/data/
 helpers/notice.txt
 logs/*.txt
 *.log
+/vendor/

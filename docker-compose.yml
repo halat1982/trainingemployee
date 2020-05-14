@@ -14,7 +14,7 @@ services:
     working_dir: /var/www/html/
     volumes:
       - "./:/var/www/html"
-    restart: unless-stopped  
+    restart: unless-stopped
 
   db:
     container_name: db-empl

@@ -1,0 +1,21 @@
+{
+  "name": "vovan/employees",
+  "authors": [
+    {
+      "name": "Halat",
+      "email": "halat@tut.by"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "framework",
+      "App\\": "app"
+    },
+    "files": [
+      "app/config.php",
+      "app/routes.php",
+      "framework/Helpers/useful.php"
+    ]
+  }
+}
